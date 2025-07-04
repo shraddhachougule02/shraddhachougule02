@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="left">Hey 😄 I am Shraddha</h1>
 
-<!--
-**shraddhachougule02/shraddhachougule02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+My name is Shraddha, and I hold a Master’s degree in Data Science.<br>
+I love working with data to solve real-world problems using ML, AI, and visualization tools.<br>
+Always learning, always building.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:18px; margin-right:10px;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:18px; margin-right:10px;" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:18px; margin-right:10px;" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="height:18px; margin-right:10px;" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:18px; margin-right:10px;" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" style="height:18px; margin-right:10px;" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" style="height:18px; margin-right:10px;" alt="Tableau" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/cshraddha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" height="20" alt="LinkedIn" />
+  </a>
+</p>
+
+
+
